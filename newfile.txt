@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hiiiiii
+=======
+Hello world!
+>>>>>>> c33b864348ae69789356233c138032a314bddbab
