@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 good morning to everyone present here
+=======
+good morning everyone
+>>>>>>> fb
